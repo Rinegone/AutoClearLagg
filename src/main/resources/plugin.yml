@@ -1,0 +1,6 @@
+name: AutoClearLagg
+main: me.l1near.autoclearlagg.Loader
+version: 1.0
+api: ["1.0.9"]
+author: L1near
+load: STARTUP
