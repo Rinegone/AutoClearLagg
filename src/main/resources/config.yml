@@ -1,3 +1,8 @@
-Message: "§c§lWARNING:§r§f Entities will clear in %TIME%!"
 Timer: 3600
 Broadcasting-time: 1800, 900, 600, 300, 60, 10, 5, 4, 3, 2, 1 #When the message broadcasts in seconds
+
+Messages:
+  Usage: "Usage: /lag timer => Displays the time left for the clear lag | /lag clear => force a clear lag"
+  Broadcast: "§c§lWARNING:§r§f Entities will clear in %TIME%!"
+  Lag-Cleared: "§c§lWARNING:§r§f All entities have been cleared!"
+  Time-Left message: "Lag will clear in %TIME%"
